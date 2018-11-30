@@ -7,6 +7,7 @@ public class Client {
     {
             System.out.println("88888");
             System.out.println("66666");
+            System.out.println("66666");
     }
 
 
